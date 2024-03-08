@@ -60,7 +60,7 @@ if (isset($_POST['login'])) {
             <!-- Logo -->
             <div class="app-brand justify-content-center">
               <a href="index.html" class="app-brand-link gap-2">
-                <span class="app-brand-text demo text-body fw-bolder">Memayba</span>
+                <span class="app-brand-text demo text-body fw-bolder">login dulu</span>
               </a>
             </div>
             <!-- /Logo -->
